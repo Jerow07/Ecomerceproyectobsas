@@ -22,7 +22,7 @@ const Footer = () => {
               
                 className="text-white text-decoration-none"
               >
-                Urian Viera
+                Jeronimo Parra
               </a>{" "}
               || Todos los derechos reservados.
             </p>

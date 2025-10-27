@@ -1,4 +1,4 @@
-import logo from "../assets/imgs/logo.png";
+import logo from "../assets/imgs/doglogo.jpg";
 import MyCart from "./MyCart";
 import { CiMenuFries } from "react-icons/ci";
 
@@ -8,7 +8,7 @@ const Nav = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary mb-5 custom-navbar fixed-top w-100">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          <img src={logo} alt="logo" style={{ width: "100px" }} />
+          <img src={logo} alt="logo" style={{ width: "70px", borderRadius: 50 }} />
         </a>
         <button
           className="navbar-toggler border-0"

@@ -7,12 +7,16 @@ const TitleTypeWriter = () => {
       <div className="col-12 col-md-7">
         <h1 className="display-5 titulo">
           Bienvenido a mi{" "}
-          <span style={{ color: "#ff9c08" }}> tienda online</span> 🛍️
+          <span style={{ color: "#ff9c08" }}> Tienda online</span> 🛍️
         </h1>
+      <a>
+        //
+
+      </a>
         <h3 className="text-center">
           <Typewriter
             options={{
-              strings: [" ✋hi Jeronimo Parra", "Full Stack Developer 🔥"],
+              strings: ["✋hi Jeronimo Parra", "Full Stack Developer 🔥"],
               autoStart: true,
               loop: true,
               deleteSpeed: 50, // Velocidad de eliminación
