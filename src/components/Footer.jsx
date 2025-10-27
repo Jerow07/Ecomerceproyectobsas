@@ -19,7 +19,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.urianviera.com"
+              
                 className="text-white text-decoration-none"
               >
                 Urian Viera
@@ -33,7 +33,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/urian121"
+                href="https://github.com/Jerow07"
                 className="text-white me-3"
               >
                 <FaGithub />
@@ -41,7 +41,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/urian-viera"
+                href="https://www.linkedin.com/in/jeronimo-parra-099411227/"
                 className="text-white me-3"
               >
                 <FaLinkedin />
@@ -49,35 +49,13 @@ const Footer = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.youtube.com/WebDeveloperUrianViera"
+                href="https://www.youtube.com/@jeroparra07"
                 className="text-white me-3"
               >
                 <FaYoutube />
               </a>
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.npmjs.com/package/nextjs-toast-notify"
-                className="text-white me-3"
-              >
-                <FaNpm />
-              </a>
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.urianviera.com/"
-                className="text-white me-3"
-              >
-                <FaChrome />
-              </a>
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE"
-                className="text-white"
-              >
-                <FaPaypal />
-              </a>
+              
+           
             </div>
           </div>
         </div>
