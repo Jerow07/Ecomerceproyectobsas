@@ -27,7 +27,7 @@ const TitleTypeWriter = () => {
       </div>
       <div className="col-12 col-md-5 text-center">
         <img
-          style={{ width: "350px", maxWidth: "100%" }}
+          style={{ padding: "40px",width: "350px", maxWidth: "80%" }}
           src={imgShopping}
           alt="Ecommerce"
           className="img-fluid text-center px-3"
